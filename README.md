@@ -1,7 +1,3 @@
-> [!NOTE]
-> This project doesn't serve much use since most terminals come with basic arithmetic capabilities.
-
-
 # Console Calculator
 Simple console calculator made with C++
 # Features
@@ -16,3 +12,6 @@ Simple console calculator made with C++
   ~(7+7)*2
   28
   ```
+
+> [!NOTE]
+> This project doesn't serve much use since most terminals come with basic arithmetic capabilities.
